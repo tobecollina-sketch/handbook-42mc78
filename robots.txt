@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tobecollina-sketch.github.io/handbook-42mc78/sitemap.xml
